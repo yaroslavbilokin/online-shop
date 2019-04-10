@@ -14,6 +14,8 @@ class ProductList {
     }
     renderProducts(container, products) {
         let productListDomString = ''
+        products
+        .sort( (a, b) => a.price - b.price)
         products.forEach(product => {
             productListDomString += 
                 `<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
@@ -27,7 +29,7 @@ class ProductList {
                         data-target="#productInfoModal" data-id="${product.id}">Info
                       </button>
                       <button class="btn btn-primary buy" data-id="${product.id}">
-                        $${product.price} - Buy
+                        ${product.price} грн - Придбати
                       </button>
                     </div>
                   </div>

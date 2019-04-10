@@ -1,58 +1,58 @@
 [
     {
         "id": "1",
-        "title": "Large drone",
-        "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can carry load.",
-        "price": 499.99
+        "title": "Adidas Terrex",
+        "image": "adidas-terrex.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 3700
     },
     {
         "id": "2",
-        "title": "Small drone",
-        "image": "drone-small.jpg",
-        "description": "Small drone. Can fly undetected.",
-        "price": 199.99
+        "title": "Nike Air 270",
+        "image": "air-270-v3.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 4599
     },
     {
         "id": "3",
-        "title": "Blue drone",
-        "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in HD camera",
-        "price": 249.99
+        "title": "Nike Air 270",
+        "image": "air-270-v4.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 4599
     },
     {
         "id": "4",
-        "title": "Red drone",
-        "image": "drone-red.jpg",
-        "description": "Nice-looking drone in red color",
-        "price": 229.99
+        "title": "Nike Air Force",
+        "image": "air-force-low.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 4300
     },
     {
         "id": "5",
-        "title": "Black gyroboard",
-        "image": "gyroboard-black.jpg",
-        "description": "Black gyroboard to match your style",
-        "price": 729.99
+        "title": "Nike Jordan",
+        "image": "jordan-mid.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 3729.99
     },
     {
         "id": "6",
-        "title": "White gyroboard",
-        "image": "gyroboard-white.jpg",
-        "description": "White gyroboard with blue lights",
-        "price": 829.99
+        "title": "Nike Air 97",
+        "image": "nike-air-97.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 2829.99
     },
     {
         "id": "7",
-        "title": "Tesla Model X",
-        "image": "tesla-x.jpg",
-        "description": "Best crossover in the World",
-        "price": 99999.99
+        "title": "Nike Air Force",
+        "image": "air-force-low.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 3999
     },
     {
         "id": "8",
-        "title": "Tesla Roadster",
-        "image": "tesla-roadster.jpg",
-        "description": "Best sports car in the World",
-        "price": 249999.99
+        "title": "Nike Air 97",
+        "image": "nike-air-97.png",
+        "description": "Lorem ipsum — dolor sit amet, consectetuer adipiscing elit",
+        "price": 3000
     }
 ]
